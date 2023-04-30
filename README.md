@@ -2,8 +2,6 @@
 
 Convert JSON to a [`yup`](https://github.com/jquense/yup) schema
 
-- [Try it now!](https://yup-of-json.savi2w.moe/)
-
 ## Usage
 
 ```typescript
